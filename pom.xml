@@ -2,21 +2,21 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>contohprojectmaven</groupId>
   <artifactId>contohproject</artifactId>
-  <version>0.3.5</version> <!-- version place -->
+  <version>0.0.1</version> <!-- version place -->
 
 <dependencies>
   <dependency>
     <groupId>junit</groupId>
     <artifactId>junit</artifactId>
     <version>4.11</version> <!-- Or whatever JUnit you're using. -->
-	</dependency>
+  </dependency>
 </dependencies>
 
 <distributionManagement>
     <repository>
       <id>github</id>
       <name>GitHub Packages</name>
-      <url>https://maven.pkg.github.com/Leirannt/TUGAS_MKEPL</url>
+      <url>https://maven.pkg.github.com/akunmkepl/leirannt</url>
     </repository>
   </distributionManagement>
   
